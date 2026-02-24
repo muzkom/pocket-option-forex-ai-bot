@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+tradingview_ta
+pillow
+pytz
+pandas
+numpy
+ta
