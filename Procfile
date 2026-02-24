@@ -1,0 +1,1 @@
+worker: python pocket_option_forex_ai_bot_king.py
